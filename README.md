@@ -1,4 +1,4 @@
-# Cooperative Pricing Model — Notebook README (Private Data Version)
+# Cooperative Pricing Model 
 
 This notebook implements a **data-driven pricing recommendation system** for car-sharing cooperatives.  
 It predicts (1) **monthly demand** (hours) at user level, (2) **monthly supply/capacity** (hours) at vehicle level, and then computes a **cost-plus recommended price** that covers costs + margin. It also supports **mixed-category cooperatives** and can **simulate discount scenarios**.
